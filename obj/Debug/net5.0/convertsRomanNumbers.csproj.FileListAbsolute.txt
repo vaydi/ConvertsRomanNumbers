@@ -1,0 +1,14 @@
+C:\Users\wajdi.riahi\source\repos\convertsromannumbers\bin\Debug\net5.0\convertsRomanNumbers.exe
+C:\Users\wajdi.riahi\source\repos\convertsromannumbers\bin\Debug\net5.0\convertsRomanNumbers.deps.json
+C:\Users\wajdi.riahi\source\repos\convertsromannumbers\bin\Debug\net5.0\convertsRomanNumbers.runtimeconfig.json
+C:\Users\wajdi.riahi\source\repos\convertsromannumbers\bin\Debug\net5.0\convertsRomanNumbers.runtimeconfig.dev.json
+C:\Users\wajdi.riahi\source\repos\convertsromannumbers\bin\Debug\net5.0\convertsRomanNumbers.dll
+C:\Users\wajdi.riahi\source\repos\convertsromannumbers\bin\Debug\net5.0\convertsRomanNumbers.pdb
+C:\Users\wajdi.riahi\source\repos\convertsromannumbers\obj\Debug\net5.0\convertsRomanNumbers.csprojAssemblyReference.cache
+C:\Users\wajdi.riahi\source\repos\convertsromannumbers\obj\Debug\net5.0\convertsRomanNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wajdi.riahi\source\repos\convertsromannumbers\obj\Debug\net5.0\convertsRomanNumbers.AssemblyInfoInputs.cache
+C:\Users\wajdi.riahi\source\repos\convertsromannumbers\obj\Debug\net5.0\convertsRomanNumbers.AssemblyInfo.cs
+C:\Users\wajdi.riahi\source\repos\convertsromannumbers\obj\Debug\net5.0\convertsRomanNumbers.csproj.CoreCompileInputs.cache
+C:\Users\wajdi.riahi\source\repos\convertsromannumbers\obj\Debug\net5.0\convertsRomanNumbers.dll
+C:\Users\wajdi.riahi\source\repos\convertsromannumbers\obj\Debug\net5.0\convertsRomanNumbers.pdb
+C:\Users\wajdi.riahi\source\repos\convertsromannumbers\obj\Debug\net5.0\convertsRomanNumbers.genruntimeconfig.cache
